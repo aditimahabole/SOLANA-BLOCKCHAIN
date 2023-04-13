@@ -1,0 +1,19 @@
+WALLET
+In Solana, a wallet is a software program or an application that is used to store and manage a user's public and private keys.
+The wallet allows users to access their Solana accounts, sign transactions, and interact with the Solana blockchain.
+TOKEN ACCOUNT
+A token account is a type of Solana account that is used to hold and manage tokens.
+Token accounts can be created using a Solana wallet or a programmatic method.
+These accounts are similar to regular Solana accounts, but they are designed specifically for managing tokens.
+MINT ACCOUNT
+A mint account is a special type of account that is used to create new tokens.
+When a new token is created, it is assigned a unique mint account that is responsible for managing the supply and distribution of the token.
+PDA
+A PDA, or Program Derived Address, is a type of Solana account that is created programmatically.
+PDAs are used in Solana smart contracts to represent entities such as token accounts, mint accounts, or metadata accounts.
+PDAs are derived from a program and a set of parameters, and their state is controlled by the program.
+METADATA ACCOUNT
+A metadata account is a type of Solana account that is used to store metadata associated with a particular NFT or other digital asset.
+Metadata accounts can contain information such as the name, description, and image associated with the asset,
+as well as other data such as the creator's name and contact information.
+These accounts are managed by the owner of the NFT or asset and can be accessed and updated using a Solana wallet or programmatic method
